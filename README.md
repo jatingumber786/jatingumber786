@@ -3,6 +3,17 @@
 <div align="center">
 
 # Hi 👋, I'm Jatin Gumber
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Learner-orange?style=for-the-badge"/>
+
+</p>
 
 ### 🚀 AI Engineer • Software Developer • Java Developer
 
