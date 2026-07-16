@@ -43,3 +43,13 @@ Computer Science Engineer | AI Enthusiast | Java Developer
 <img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,ts,js,html,css,mysql,mongodb,aws,git,github,vscode,linux" />
 
 </p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatingumber786&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingumber786&layout=compact&theme=tokyonight"/>
