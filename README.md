@@ -28,3 +28,18 @@ Computer Science Engineer | AI Enthusiast | Java Developer
 📚 Solved 150+ DSA Problems
 
 🚀 Building AI-powered Educational Platforms
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,ts,js,html,css,mysql,mongodb,aws,git,github,vscode,linux" />
+
+</p>
