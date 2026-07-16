@@ -56,7 +56,6 @@ Computer Science Engineer | AI Enthusiast | Java Developer
 
 
 
-## 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatingumber786&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingumber786&layout=compact&theme=tokyonight"/>
+<p align="center">
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</p>
