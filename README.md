@@ -33,13 +33,10 @@
 # 💫 About Me
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-Name: Jatin Gumber
-Education: B.E. Computer Science Engineering
-Role: AI & Software Developer
-Languages: Java, Python, C++, JavaScript
-Interests: AI • Cloud • Full Stack • DSA
-Current Focus: Building AI Applications
+A goal-driven Computer Science undergraduate with strong problem-solving skills in Object-Oriented
+Programming, Database Management Systems, and Operating Systems, along with good communication
+and collaboration skills. Demonstrates end-to-end ownership of building and delivering software features
+with speed and precision while contributing to high-quality software solutions.
 
 <br clear="right"/>
 
