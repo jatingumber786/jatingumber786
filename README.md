@@ -1,61 +1,60 @@
+<!-- ========================================= -->
+<!--               HEADER SECTION              -->
+<!-- ========================================= -->
+
 <h1 align="center">Hi 👋, I'm Jatin Gumber</h1>
 
-<p align="center">
-Computer Science Engineer | AI Enthusiast | Java Developer
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;AI+Developer;Java+Developer;React+Developer;AWS+Cloud+Learner;Always+Learning+New+Things" />
-</p>
-
-
-
-
-
-
-
-## 👨‍💻 About Me
-
-🎓 Computer Science Engineering Student (2023–2027)
-
-💡 Passionate about Artificial Intelligence
-
-☕ Java Developer
-
-🌐 Full Stack Developer
-
-☁️ Learning AWS Cloud
-
-📚 Solved 150+ DSA Problems
-
-🚀 Building AI-powered Educational Platforms
-
-
-
-
-
-
-
-
-
+<h3 align="center">
+Computer Science Engineering Student • AI Engineer • Software Developer
+</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,ts,js,html,css,mysql,mongodb,aws,git,github,vscode,linux" />
-
+Building AI-powered applications that solve real-world problems.
 </p>
-
-
-
-## 🏆 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/p9YUl8QEir?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
-
-
-
-
 
 <p align="center">
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Java+Developer;Full+Stack+Developer;AWS+Cloud+Learner;Open+Source+Enthusiast;Building+Intelligent+Software;Always+Learning+New+Technologies" />
 </p>
+
+<p align="center">
+<a href="https://github.com/jatingumber786">
+<img src="https://komarev.com/ghpvc/?username=jatingumber786&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/jatingumber786?tab=followers">
+<img src="https://img.shields.io/github/followers/jatingumber786?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/jatingumber786">
+<img src="https://img.shields.io/github/stars/jatingumber786?affiliations=OWNER&style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Computer Science Engineering student** passionate about designing and developing software that solves real-world problems through Artificial Intelligence.
+
+My primary interests include **Artificial Intelligence, Full Stack Development, Cloud Computing, and Software Engineering**. I enjoy transforming ideas into practical products while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+
+I believe the best way to learn is by **building projects**, experimenting with new technologies, and sharing knowledge with the developer community.
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Building AI-powered software applications
+- ☕ Mastering Java for Software Development
+- 🌐 Developing Full Stack Web Applications
+- ☁️ Learning AWS Cloud & Scalable Architectures
+- 📚 Solving Data Structures & Algorithms problems daily
+- 💡 Exploring Machine Learning and NLP
+
+---
+
+# 🎯 Career Goal
+
+> To become a Software Engineer who builds intelligent, scalable, and impactful applications that improve people's lives.
+
+---
