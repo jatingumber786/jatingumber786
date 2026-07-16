@@ -7,7 +7,9 @@
 </div>
 
 
-### 🚀 AI Engineer • Software Developer • Java Developer
+<p align="center">
+<b>🚀 AI Engineer • Software Developer • Java Developer</b>
+</p>
 
 <p align="center">
 
