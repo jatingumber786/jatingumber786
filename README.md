@@ -223,3 +223,51 @@
 </table>
 
 ---
+
+
+
+
+
+
+
+---
+
+# 📈 GitHub Contribution
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatingumber786/jatingumber786/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatingumber786/jatingumber786/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jatingumber786/jatingumber786/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+> **"Code with purpose. Learn continuously. Build solutions that create impact."**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+awesome+together!;Always+open+to+learning+and+collaboration." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
