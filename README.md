@@ -1,60 +1,69 @@
-<!-- ========================================= -->
-<!--               HEADER SECTION              -->
-<!-- ========================================= -->
+<!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Jatin Gumber</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student • AI Engineer • Software Developer
-</h3>
+# Hi 👋, I'm Jatin Gumber
 
-<p align="center">
-Building AI-powered applications that solve real-world problems.
-</p>
+### 🚀 AI Engineer • Software Developer • Java Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Java+Developer;Full+Stack+Developer;AWS+Cloud+Learner;Open+Source+Enthusiast;Building+Intelligent+Software;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=850&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Java+Developer;AWS+Cloud+Learner;Building+AI-Powered+Applications;Always+Learning+Something+New" />
 
-<p align="center">
+<br>
+
 <a href="https://github.com/jatingumber786">
-<img src="https://komarev.com/ghpvc/?username=jatingumber786&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/jatingumber786?tab=followers">
-<img src="https://img.shields.io/github/followers/jatingumber786?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/jatingumber786?label=Followers&style=for-the-badge&color=0ea5e9"/>
 </a>
 
 <a href="https://github.com/jatingumber786">
-<img src="https://img.shields.io/github/stars/jatingumber786?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jatingumber786&style=for-the-badge&color=blue"/>
 </a>
-</p>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=openjdk"/>
+</a>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-I'm a **Computer Science Engineering student** passionate about designing and developing software that solves real-world problems through Artificial Intelligence.
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-My primary interests include **Artificial Intelligence, Full Stack Development, Cloud Computing, and Software Engineering**. I enjoy transforming ideas into practical products while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+### 👨‍💻 Software Engineer in Progress
 
-I believe the best way to learn is by **building projects**, experimenting with new technologies, and sharing knowledge with the developer community.
+🎓 Computer Science Engineering Student
+
+🤖 Passionate about Artificial Intelligence
+
+☕ Java Developer
+
+🌐 Full Stack Developer
+
+☁️ AWS Cloud Learner
+
+📚 Solving DSA every day
+
+💡 Love building products that solve real-world problems
+
+🎯 Goal: Become an AI & Software Engineer
+
+<br clear="right"/>
 
 ---
 
 # 🚀 Current Focus
 
-- 🤖 Building AI-powered software applications
-- ☕ Mastering Java for Software Development
-- 🌐 Developing Full Stack Web Applications
-- ☁️ Learning AWS Cloud & Scalable Architectures
-- 📚 Solving Data Structures & Algorithms problems daily
-- 💡 Exploring Machine Learning and NLP
-
----
-
-# 🎯 Career Goal
-
-> To become a Software Engineer who builds intelligent, scalable, and impactful applications that improve people's lives.
+| 🚀 Currently Learning | 💼 Building |
+|------------------------|-------------|
+| Artificial Intelligence | PaperPilot AI |
+| AWS Cloud | AI Resume Analyzer |
+| Full Stack Development | CryptoVault |
+| Machine Learning | CloudLift S3 Gallery |
+| DSA & System Design | Interview Preparation |
 
 ---
