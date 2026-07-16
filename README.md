@@ -46,6 +46,13 @@ Computer Science Engineer | AI Enthusiast | Java Developer
 
 
 
+## 🏆 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/p9YUl8QEir?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+
+
 
 
 
