@@ -233,9 +233,9 @@ with speed and precision while contributing to high-quality software solutions.
 
 <div align="center">
 
-## 💙 Thanks for visiting my profile!
+⭐ If you like my work, consider following me.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+awesome+together!;Always+open+to+learning+and+collaboration." />
+Let's build something amazing together.
 
 </div>
 
