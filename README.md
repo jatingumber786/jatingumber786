@@ -3,6 +3,10 @@
 <div align="center">
 
 # Hi 👋, I'm Jatin Gumber
+
+
+### 🚀 AI Engineer • Software Developer • Java Developer
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
@@ -14,28 +18,6 @@
 <img src="https://img.shields.io/badge/AWS-Learner-orange?style=for-the-badge"/>
 
 </p>
-
-### 🚀 AI Engineer • Software Developer • Java Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=850&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Java+Developer;AWS+Cloud+Learner;Building+AI-Powered+Applications;Always+Learning+Something+New" />
-
-<br>
-
-<a href="https://github.com/jatingumber786">
-<img src="https://img.shields.io/github/followers/jatingumber786?label=Followers&style=for-the-badge&color=0ea5e9"/>
-</a>
-
-<a href="https://github.com/jatingumber786">
-<img src="https://komarev.com/ghpvc/?username=jatingumber786&style=for-the-badge&color=blue"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=openjdk"/>
-</a>
 
 </div>
 
