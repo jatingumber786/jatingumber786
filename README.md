@@ -25,12 +25,28 @@
 
 # 💫 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 A goal-driven Computer Science undergraduate with strong problem-solving skills in Object-Oriented
 Programming, Database Management Systems, and Operating Systems, along with good communication
 and collaboration skills. Demonstrates end-to-end ownership of building and delivering software features
 with speed and precision while contributing to high-quality software solutions.
+<p align="center">
+<a href="https://www.linkedin.com/in/jatin-gumber-75b10b34a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+<a href="https://github.com/jatingumber786">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:gumberjatin5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://portfolio-jatin-mauve.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
 <br clear="right"/>
 
 ---
