@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# Hi 👋, I'm Jatin Gumber
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jatin+Gumber" />
+
+</div>
 
 
 ### 🚀 AI Engineer • Software Developer • Java Developer
