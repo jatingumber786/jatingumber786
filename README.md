@@ -34,23 +34,12 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👨‍💻 Software Engineer in Progress
-
-🎓 Computer Science Engineering Student
-
-🤖 Passionate about Artificial Intelligence
-
-☕ Java Developer
-
-🌐 Full Stack Developer
-
-☁️ AWS Cloud Learner
-
-📚 Solving DSA every day
-
-💡 Love building products that solve real-world problems
-
-🎯 Goal: Become an AI & Software Engineer
+Name: Jatin Gumber
+Education: B.E. Computer Science Engineering
+Role: AI & Software Developer
+Languages: Java, Python, C++, JavaScript
+Interests: AI • Cloud • Full Stack • DSA
+Current Focus: Building AI Applications
 
 <br clear="right"/>
 
