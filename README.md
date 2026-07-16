@@ -76,75 +76,11 @@
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
-</p>
-
----
-
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
----
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
----
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
----
-
-### 🛠️ Tools & IDEs
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,mysql,aws,git,github,vscode,postman,figma,linux&perline=11" />
 
 </div>
 
 ---
-
-# 🏆 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://takeuforward.org/strivers-a2z-dsa-course/">
-<img src="https://img.shields.io/badge/DSA-A2Z%20Sheet-success?style=for-the-badge"/>
-</a>
-
-<a href="https://www.naukri.com/code360/">
-<img src="https://img.shields.io/badge/Code360-Active-blue?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
